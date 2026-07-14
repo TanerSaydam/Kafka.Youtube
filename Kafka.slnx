@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="../docker-compose.yml" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="Kafka.Consumer/Kafka.Consumer.csproj" />
+  <Project Path="Kafka.Producer/Kafka.Producer.csproj" />
+</Solution>
